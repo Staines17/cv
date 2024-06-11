@@ -85,7 +85,7 @@ span {
   text-align: left;
 }
 
-.python{
+.python,.java{
   width: 20%;
   float: left;
   margin-right: 30px;
@@ -138,4 +138,8 @@ span {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+
+.profileImage{
+  width: 250px;
 }
