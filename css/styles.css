@@ -85,13 +85,13 @@ span {
   text-align: left;
 }
 
-.python,.java{
+.left{
   width: 20%;
   float: left;
   margin-right: 30px;
 }
 
-.coding{
+.right{
   width: 20%;
   float: right;
   margin-left: 30px;
